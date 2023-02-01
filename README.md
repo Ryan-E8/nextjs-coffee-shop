@@ -1,3 +1,4 @@
+-----PENDING PROJECT-----
 1. Home Page:
     1. Purchase a new coffee (NFT receipt will be provided)
         1. Display all owned receipt NFTs
